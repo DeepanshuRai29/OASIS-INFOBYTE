@@ -17,17 +17,13 @@ identify customer purchasing patterns and provide actionable business recommenda
 ### 1. Age-Based Spending Analysis
 This visualization identifies the top 10 age groups that are the primary drivers of revenue. 
 By focusing on these demographics, the business can optimize its marketing budget for maximum ROI.
-![Age Analysis Chart](visualizations/Screenshot%202026-04-27%20115844.png)
-*Data Reference: image_f5b914.png*
 
 ### 2. Product Category Distribution
 A breakdown of total sales and quantity sold across Beauty, Clothing, and Electronics categories.
 This helps in understanding which product lines are most profitable.
-![Category Analysis](visualizations/image_f5a1f3.png)
 
 ### 3. Customer Demographic Breakdown
 Analyzing the relationship between customer age and spending habits to help in creating a more personalized customer experience.
-![Data Analysis Overview](visualizations/image_f5b914.png)
 
 ---
 
